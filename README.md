@@ -6,4 +6,6 @@ Screen shots of the web page to be imitated, to be scrolled vertically, can be f
 • Video is available in the attached Static_Website_video.mov.<br><br>
 • Important Note: use of CSS is required<br><br>
 • You will need four (4) images to help you complete the web page: image1.png, image2.png, image3.png and flower.png.<br><br>
-• You should not use any other image.
+• You should not use any other image.<br><br>
+
+Submission: https://kas140472.github.io/StaticWebsiteReplica/
